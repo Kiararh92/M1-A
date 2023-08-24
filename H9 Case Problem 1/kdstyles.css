@@ -1,0 +1,37 @@
+/*
+   New Perspectives on HTML and CSS
+   Tutorial 9
+   Case Problem 1
+
+   Kelsey's Diner Style Sheet
+
+   Author:  Kiara Howard 
+   Date:    11/17/2022  
+
+   Filename:         kdstyles.css
+   Supporting Files: 
+
+*/
+
+img {
+   border-width: 0px;
+}
+
+body {
+	background-image: url("tan.jpg");
+}
+
+h5 {	
+	text-align:center;
+	}
+
+h1 {	
+	text-align:center;
+	color: green;
+	}
+	
+dl dt b{
+	font-family: sans-serif;
+	color: green;
+}	
+
