@@ -1,6 +1,13 @@
 # M1-A
+Kiara Howard
+Software Development 1
+CRN 14835
 Module 1 Assignment
-Upload of COP 2822C HW 9
+
+Upload of 
+Web Development
+CRN 12606
+COP 2822C 
 H9 Case Problem 1
 
 Updates legacy web pages for Kelsey's Diner.
